@@ -11,3 +11,6 @@ it will go right to your player position
  
 # how to install visual studio code 
 go to the microsoft store then search visual studio code press it then press install
+
+# how to inpport the zip to visual studio code 
+so you have to press the file tab at the top and press open folder then click the folder thats in any directory
