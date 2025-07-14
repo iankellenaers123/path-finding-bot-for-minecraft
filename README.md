@@ -14,3 +14,6 @@ go to the microsoft store then search visual studio code press it then press ins
 
 # how to inpport the zip to visual studio code 
 so you have to press the file tab at the top and press open folder then click the folder thats in any directory if it shows folders its good and if it shows nothing thats also good just open the termnal and inter the commands
+
+# warning 
+it will only detect the arrows/bow when you close to it so tp the bot to you then make the parkour it canot be long just short
