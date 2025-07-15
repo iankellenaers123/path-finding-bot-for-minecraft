@@ -5,7 +5,7 @@ you can also hit the player/bot you can also use a bow if you doing parkour it
 it will go right to your player position      it works for bows and it works for lonng range and when you hit it again after its following it will stop also works with bow
 # installation
   to use download it from the releses tab then go to visualstudio code if you dont have it then install it from microsoft store  then open it then go to the visual studio or cmd code termanal  then type node bot.js. then it will say  
- Enter your LAN port (e.g. 59773): so dont put 59773 put your minecraft Lan code into the thing then boom your done mess with it for cmd for windows use this command cd then the path for the folder example C:\Users\ianke\Downloads\follower.bot (1)\follower bot 
+ Enter your LAN port (e.g. 59773): so dont put 59773 put your minecraft Lan code into the thing then boom your done mess with it for cmd for windows use this command cd then the path for the folder example C:\Users\ianke\Downloads\follower.bot (1)\follower bot  make sure you delete the download.shortcut cuse of ypu dont things might break
  # how to open visual studio code terminal
  go to the vew tab then press terminal
  
